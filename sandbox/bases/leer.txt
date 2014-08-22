@@ -1,0 +1,18 @@
+Estas son las bases para poder aprender a programar desde mi perspectiva.
+
+Cosas que debes aprender de memoria.
+
+variables= son los valores cualquiera que contienen numeros, letras, o ambas para formar un valor.
+los valores de las variables son varios pero nos enfocaremos en los basicos para entender sin confución
+
+constantes= son igual a las variables pero no cambian su valor. de ahi su nombre.
+
+Arreglos= Son un tipo de varible que tiene la caracteristica de guardar mas de un valor y poder acceder a esos valores o valor a traves de una sintaxis.
+
+BUCLES
+
+El bucle if 'si' es un comparativo de dos o varios valores, y se hace a traves de la funcion if del lenguaje de programacion.
+
+el Buccle While es un 'mientras tenga un valor definido has esto normalmente inicia a traves de un contador'.
+
+El bucle for es un contador que se define que si q el valor de x lo compara con a y le suma o resta valores.
